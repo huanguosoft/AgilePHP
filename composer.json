@@ -3,6 +3,7 @@
     "description": "Agile PHP Framework.",
     "keywords": ["framework", "agile"],
     "license": "Apache-2.0",
+    "type": "project",
     "homepage": "http://www.huanguosoft.com",
     "authors": [
         {
