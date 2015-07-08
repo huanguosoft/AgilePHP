@@ -1,0 +1,26 @@
+{
+    "name": "agile/agile",
+    "description": "Agile PHP Framework.",
+    "keywords": ["framework", "agile"],
+    "license": "Apache-2.0",
+    "homepage": "http://www.huanguosoft.com",
+    "authors": [
+        {
+            "name": "huanguosoft",
+            "email": "huanguosoft@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+        "php": ">=5.4.0",
+        "agile/framework": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "app"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
