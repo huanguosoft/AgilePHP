@@ -7,8 +7,10 @@
     "homepage": "http://www.huanguosoft.com",
     "authors": [
         {
-            "name": "huanguosoft",
-            "email": "huanguosoft@gmail.com"
+            "name": "Andy",
+            "email": "tgxz2000@gmail.com",
+            "homepage": "http://www.moqifei.com",
+            "role": "Developer"
         }
     ],
     "type": "project",
